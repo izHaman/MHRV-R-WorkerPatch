@@ -44,7 +44,7 @@ Changes made to `worker.js` include:
 
 ## Usage
 
-This worker is intended to be used alongside:
+This worker is intended to be used in:
 
 - [MasterHttpRelayVPN-Rust](https://github.com/therealaleph/MasterHttpRelayVPN-Rust?utm_source=chatgpt.com)
 
@@ -61,6 +61,7 @@ The exact upstream source/version this file originally came from is unknown beca
 ## License
 
 This repository is released under the MIT License.
+
 
 Credits and attribution belong to:
 
