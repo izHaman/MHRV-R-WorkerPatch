@@ -1,6 +1,6 @@
 # پچ Cloudflare Worker برای MasterHttpRelayVPN-Rust
 
-[English](README.md) | [Farsi](README_FA.md)
+[English](README.md) | [فارسی](README_FA.md)
 
 اسکریپت‌های شخصی‌سازی‌شده و بهینه‌شده سمت Relay برای اکوسیستم MasterHttpRelayVPN.
 
