@@ -11,6 +11,7 @@
  * CHANGE THESE:
  */
 
+
 const AUTH_KEY = "STRONG_SECRET_KEY";
 const WORKER_URL = "https://example.workers.dev";
 
